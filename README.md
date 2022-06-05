@@ -1,6 +1,9 @@
 - 🚀 Study programming since May 2021, when I started the Certified Tech Developer course at Digital House Brazil;
 - ✨ In May 2021 when I started my transition to Fullstack Web. 
 - 💻 I am currently studying: Java, Spring, MySQL, Javascript, Html, css;
+</div>
+  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ivanDourado&repo=ivanDourado&countColorcountColor&style=flat">
+<div><br>
 
 <hr>
 <div>
@@ -12,6 +15,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="HTML5" height="60" width="80" src="">
+  <img align="center" alt="CSS" height="60" width="80" src="">
+  <img align="center" alt="MySQL" height="100" width="80" src="">
  
 </div>
   <hr>
@@ -19,4 +25,5 @@
  
   <a href="[[https://www.linkedin.com/in/jaiana-santos-dev/](https://www.linkedin.com/in/ivan-felipe-dev/)](https://www.linkedin.com/in/ivan-felipe-dev/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     <a href = "mailto:jaivan96@protonmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
 </div>
