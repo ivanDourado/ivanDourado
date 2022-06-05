@@ -15,9 +15,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="HTML5" height="60" width="80" src="https://www.google.com/search?q=html&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiL2MS_ypb4AhUqkZUCHREUDx4Q_AUoAXoECAIQAw#imgrc=Bq4WTYc6O16thM">
-  <img align="center" alt="CSS" height="60" width="80" src="https://stringfixer.com/pt/CSS">
-  <img align="center" alt="MySQL" height="100" width="80" src="https://aws.amazon.com/pt/rds/mysql/">
+
  
 </div>
   <hr>
