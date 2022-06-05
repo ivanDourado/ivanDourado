@@ -1,6 +1,6 @@
 - 🚀 Study programming since May 2021, when I started the Certified Tech Developer course at Digital House Brazil;
 - ✨ In May 2021 when I started my transition to Fullstack Web. 
-- 💻 I am currently studying: Java, Spring, Javascript, Html, css;
+- 💻 I am currently studying: Java, Spring, MySQL, Javascript, Html, css;
 
 <hr>
 <div>
