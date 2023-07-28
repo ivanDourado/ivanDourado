@@ -1,6 +1,7 @@
 - 🚀 Study programming since May 2021, when I started the Certified Tech Developer course at Digital House Brazil;
+- 🎲 Data Analyst
 - ✨ In May 2021 when I started my transition to Fullstack Web. 
-- 💻 I am currently studying: Java, Spring, MySQL, Javascript, Html, css;
+- 💻 I am currently studying: SQL, Python, Java, Spring, MySQL, Javascript, Html, css;
 </div>
   <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ivanDourado&repo=ivanDourado&countColorcountColor&style=flat">
 <div><br>
