@@ -1,8 +1,16 @@
-- 🚀 Study programming since May 2021, when I started the Certified Tech Developer course at Digital House Brazil;
-- 🎲 Data Analyst
-- 🎓 Graduated in Data Science
-- ✨ In May 2021 when I started my transition to Fullstack Web. 
-- 💻 I am currently studying: SQL, Python, Java, Spring, MySQL, Javascript, Html, css;
+👋 Hello! I'm Ivan Felipe
+LinkedIn GitHub
+
+I work as a Data Analyst and Business Intelligence Professional, transforming data into strategic insights to support decision-making.
+I have experience in data governance, analysis, and visualization, always seeking the best approach to interpret and communicate data effectively.
+
+🛠️ Technologies & Tools
+    
+
+📬 Where to find me?
+📩 Email: contact@jaianaaraujo.com | programacao.jai@gmail.com
+💼 LinkedIn: My LinkedIn
+📂 GitHub: My GitHub
 </div>
   <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ivanDourado&repo=ivanDourado&countColorcountColor&style=flat">
 <div><br>
