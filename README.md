@@ -1,6 +1,6 @@
 - 🚀 Study programming since May 2021, when I started the Certified Tech Developer course at Digital House Brazil;
 - 🎲 Data Analyst
-- 🎓 Pursuing a degree in Data Science
+- 🎓 Graduated in Data Science
 - ✨ In May 2021 when I started my transition to Fullstack Web. 
 - 💻 I am currently studying: SQL, Python, Java, Spring, MySQL, Javascript, Html, css;
 </div>
