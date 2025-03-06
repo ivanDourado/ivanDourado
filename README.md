@@ -1,17 +1,29 @@
-👋 Hello! I'm Ivan Felipe
-LinkedIn GitHub
+# 👋 Hello! I'm Ivan Felipe  
 
-I work as a Data Analyst and Business Intelligence Professional, transforming data into strategic insights to support decision-making.
-I have experience in data governance, analysis, and visualization, always seeking the best approach to interpret and communicate data effectively.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-felipe-dev/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/ivanDourado)
 
-🛠️ Technologies & Tools
-    
+I work as a **Data Analyst and Business Intelligence Professional**, transforming data into strategic insights to support decision-making.  
+I have experience in **data governance, analysis, and visualization**, always seeking the best approach to interpret and communicate data effectively.  
 
-📬 Where to find me?
-📩 Email: contact@jaianaaraujo.com | programacao.jai@gmail.com
-💼 LinkedIn: My LinkedIn
-📂 GitHub: My GitHub
-</div>
+---
+
+## **🛠️ Technologies & Tools**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
+
+---
+
+## **📬 Where to find me?**  
+📩 **Email:** [ivandouradorsd@gmail.com](mailto:ivandouradorsd@gmail.com) | [programacao.ivanfos@gmail.com](mailto:programacao.ivanfos@gmail.com)  
+💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/ivan-felipe-dev/)  
+📂 **GitHub:** [My GitHub](https://github.com/ivanDourado)</div>
   <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ivanDourado&repo=ivanDourado&countColorcountColor&style=flat">
 <div><br>
 
